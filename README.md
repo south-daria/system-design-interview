@@ -11,4 +11,7 @@
 7. consistent Hashing https://buttered-vision-613.notion.site/3-5-Consistent-Hashing-bc09c0f223514c47b13d464d2afe9491
 8. 키-값 저장소 설계 https://buttered-vision-613.notion.site/3-6-327ea7aca5324ec793ab5c4043e7af9c
 9. 케이스 스터디: 쿠팡의 대용량 트래픽 처리 전략 https://buttered-vision-613.notion.site/3-b283d68f76bd426c999554f0fda2dcee
+10. 분산 시스템을 위한 유일 ID 생성기 설계 https://buttered-vision-613.notion.site/4-7-ID-1f7c3878829140c2bc013fb66632f359
+11. URL 단축기 설계 https://buttered-vision-613.notion.site/4-8-URL-bf40b75543b340c7ab5e9da42ce1c0ea
+12. 케이스 스터디: MongoDB ObjectID https://buttered-vision-613.notion.site/4-MongoDB-ObjectID-250b1979ef084933973e1bc6eb0df6dd
 
